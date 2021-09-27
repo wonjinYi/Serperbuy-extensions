@@ -114,10 +114,13 @@ Superb AI Suite에 편의기능을 추가해주는 구글 크롬 웹브라우저
 1.1.4 (2021/09/27)
 - This extension is applied to SuperbAI Suite v1.9.9 and eariler (Legacy tools). You can't use this on SuperbAI Suite v1.10.0 and later (New tools)
 - This is the last update, and no further features will be added.
+
 1.1.3 (2021/09/05)
 - [Ctrl + Alt + '] works to activate/deactivate canvasif, not reset.
+
 1.1.2 (2021/08/30)
 - Fix uncaught errors and Critical bugs for FixCab
+
 1.1.1 (2021/08/29)
 - Now CrossLine supports saving user settings automatically.
 
@@ -126,9 +129,12 @@ Superb AI Suite에 편의기능을 추가해주는 구글 크롬 웹브라우저
 - 이 프로그램은 SuperbAI Suite v1.9.9 이하의 버전에서만 동작합니다. (기존의 레거시 툴). 다시 말하면, 이 프로그램은 SuperbAI Suite v1.10.0 이상의 버전에서는 동작하지 않습니다. (새로운 툴)
 - 이번 업데이트가 마지막 유의미한 업데이트입니다. 앞으로 새로운 기능을 추가할 계획은 없습니다.
 - 새로운 SuperbAI Suite에서 동작하는 새로운 Serperbuy가 배포될 예정입니다. 배포완료되고 나면 여기에 링크가 추가될 예정입니다.
+
 1.1.3 (2021/09/05)
 - [Ctrl + Alt + ']가 Canvasif 값 리셋이 아닌 활성화/비활성화 키로 동작합니다.
+
 1.1.2 (2021/08/30)
 - 예기치 못한 에러들을 해결했습니다. FixCab이 갖고있던 치명적인 오류와 버그를 해결했습니다.
+
 1.1.1 (2021/08/29)
 - CrossLine의 사용자 설정값이 자동으로 저장됩니다.
