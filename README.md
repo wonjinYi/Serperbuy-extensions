@@ -1,6 +1,8 @@
-#serperbuy 1.x.x
+# serperbuy 1.x.x (for Legacy)
 
-### Important Notice
+---
+
+## Important Notice
 [ABOUT LAST UPDATE]
 * This extension is applied to SuperbAI Suite v1.9.9 and eariler (Legacy tools)
 * This update is the last important update. There are no plans to add new features in the future. There will be a new Serperbuy running on the new SuperbAI Suite. I'll add a link here when it's released.
@@ -10,18 +12,23 @@
 * 이번 업데이트가 마지막의 유의미한 업데이트입니다. 앞으로 새 기능이 추가될 계획은 없습니다. 새로운 SuperbAI Suite에서 동작하는 새 Serperbuy가 배포될 예정입니다. 배포되고 나면 여기에 링크를 추가하겠습니다.
 * 그동안 사용해주셔서 감사합니다.
 
+---
 
-### User Guide
+## User Guide
 Cick this to watch the youtube video
 [![Serperbuy User Guide v1.1.0](http://img.youtube.com/vi/7c9ru_fXKVw/0.jpg)](https://www.youtube.com/watch?v=7c9ru_fXKVw?t=0s)
 
-### preview
+---
+
+## preview
 ![readme_image_1](./images/readme_01.jpg)
 ![readme_image_2](./images/readme_02.png)
 ![readme_image_3](./images/readme_03.png)
 ![readme_image_4](./images/readme_04.png)
 
-### Detail Guide (ENG)
+---
+
+## Detail Guide (ENG)
 > Serperbuy is a Unofficial third party tool developed by the Superb AI Suite user. And it is not related to Superb AI, inc. 
 
 ##### Serperbuy
@@ -60,7 +67,9 @@ Performance may be degraded when you adjust brightness & contrast. It can fixed 
 
 
 
-### Detail Guide (KOR)
+---
+
+## Detail Guide (KOR)
 > Serperbuy는 Superb AI Suite사용자가 개발한 서드파티 도구로, Superb AI, inc.와는 어떠한 관련도 없습니다.
 
 ##### Serperbuy 
@@ -98,7 +107,9 @@ Superb AI Suite에 편의기능을 추가해주는 구글 크롬 웹브라우저
     * Ctrl + ]  현재 캐비넷높이 저장
 
 
-### Update Note
+---
+
+## Update Note
 #### Eng.
 1.1.4 (2021/09/27)
 - This extension is applied to SuperbAI Suite v1.9.9 and eariler (Legacy tools). You can't use this on SuperbAI Suite v1.10.0 and later (New tools)
